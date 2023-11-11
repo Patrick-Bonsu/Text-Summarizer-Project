@@ -49,9 +49,9 @@ open up you local host and port
 
 
 ```bash
-Author: Bappy Ahmed
+Author: Pattrick Yeboah Bonsu
 Data Scientist
-Email: entbappy73@gmail.com
+Email: bonsuyeboahmurphy@gmail.com
 
 ```
 
@@ -126,6 +126,6 @@ Email: entbappy73@gmail.com
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = 
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = testS
