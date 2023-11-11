@@ -1,4 +1,7 @@
 # End to end Text-Summarizer-Project
+Project: Text Summarizer
+Overview:
+The Text Summarizer project is an Natural Language Processing (NLP) model aimed at automating the summarization of large volumes of text, extracting key information while preserving the essential meaning. The project leverages advanced techniques in deep learning and transformer models to achieve state-of-the-art results in text summarization.
 
 ## Workflows
 
